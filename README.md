@@ -1,0 +1,2 @@
+# squalofoots
+footwears ledger application
